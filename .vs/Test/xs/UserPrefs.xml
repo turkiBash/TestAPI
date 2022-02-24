@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{B523C441-485F-428F-B570-F960572D4AF5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Test PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Startup.cs">
+    <Files>
+      <File FileName="Test/DAL/Dal.cs" Line="50" Column="13" />
+      <File FileName="Test/DAL/DbConnectionFactory.cs" Line="1" Column="1" />
+      <File FileName="Test/Controllers/ActivityLogger.cs" Line="1" Column="1" />
+      <File FileName="Test/BLL/Activity.cs" Line="1" Column="1" />
+      <File FileName="Test/BLL/AppConfig.cs" Line="1" Column="1" />
+      <File FileName="Test/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Test/Program.cs" Line="1" Column="1" />
+      <File FileName="Test/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True" selected="True">
+            <Node name="Test" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="BLL" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
